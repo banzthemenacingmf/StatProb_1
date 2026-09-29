@@ -18,5 +18,10 @@ Sumber Dataset: Kaggle
 3 Temuan Utama :
 
 Cara Menjalankan Notebook :
+1.Pastikan pustaka (library) Python seperti pandas telah terinstal di lingkungan kerja Anda.   
+
+2. Unduh file dataset bernama Metro_Interstate_Traffic_Volume.csv dari tautan Kaggle di atas dan letakkan di direktori yang sama dengan notebook.
+
+3. Eksekusi seluruh sel kode secara bertahap (run all cells), dimulai dari tahap impor pustaka (library) serta pembacaan data dengan fungsi read_csv, pembersihan data (data cleaning), hingga proses kalkulasi statistik deskriptif dan pembuatan tabel frekuensi.
 
     
