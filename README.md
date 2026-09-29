@@ -20,6 +20,10 @@ Sumber Dataset: Kaggle
 
 3 Temuan Utama :
 
+        1.(weather_description) shower snow hanya terjadi sekali
+        2.Ketika cuaca berawan, volume kendaraan paling banyak dibanding cuaca cerah
+        3.Dataset didominasi oleh (holiday) Non-Holiday atau hari biasa dengan persentasi 99.87%
+
 Cara Menjalankan Notebook :
 
         1.Pastikan pustaka (library) Python seperti pandas telah terinstal di lingkungan kerja Anda.   
