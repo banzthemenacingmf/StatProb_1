@@ -1,11 +1,14 @@
 # Hourly data on the traffic volume for a major interstate highway in the US
 
 Kelompok 9 Kelas B (Smart City) :
-1. Atalla Fathrelian Banureswara (5027261008)
-2. Siti Aisyah (5027261044)
-3. Azzam Ahmad Muharrar (5027261135)
 
-Topik : Analisis Eksploratif (EDA) Statistik Deskriptif mengenai volume lalu lintas kendaraan per jam
+        1. Atalla Fathrelian Banureswara (5027261008)
+        2. Siti Aisyah (5027261044)
+        3. Azzam Ahmad Muharrar (5027261135)
+
+Topik : 
+
+        Analisis Eksploratif (EDA) Statistik Deskriptif mengenai volume lalu lintas kendaraan per jam
         di ruas jalan tol lintas negara bagian Amerika Serikat serta variabel pendukung seperti cuaca
         dan suhu untuk perencanaan Smart City
 
@@ -19,10 +22,10 @@ Sumber Dataset: Kaggle
 
 Cara Menjalankan Notebook :
 
-1.Pastikan pustaka (library) Python seperti pandas telah terinstal di lingkungan kerja Anda.   
+        1.Pastikan pustaka (library) Python seperti pandas telah terinstal di lingkungan kerja Anda.   
 
-2. Unduh file dataset bernama Metro_Interstate_Traffic_Volume.csv dari tautan Kaggle di atas dan letakkan di direktori yang sama dengan notebook.
+        2. Unduh file dataset bernama Metro_Interstate_Traffic_Volume.csv dari tautan Kaggle di atas dan letakkan di direktori yang sama dengan notebook.
 
-3. Eksekusi seluruh sel kode secara bertahap (run all cells), dimulai dari tahap impor pustaka (library) serta pembacaan data dengan fungsi read_csv, pembersihan data (data cleaning), hingga proses kalkulasi statistik deskriptif dan pembuatan tabel frekuensi.
+        3. Eksekusi seluruh sel kode secara bertahap (run all cells), dimulai dari tahap impor pustaka (library) serta pembacaan data dengan fungsi read_csv, pembersihan data (data cleaning), hingga proses kalkulasi statistik deskriptif dan pembuatan tabel frekuensi.
 
     
