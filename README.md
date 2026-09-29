@@ -10,7 +10,9 @@ Topik : Analisis Eksploratif (EDA) Statistik Deskriptif mengenai volume lalu lin
         dan suhu untuk perencanaan Smart City
 
 Sumber Dataset: Kaggle
+        
         Link    : https://www.kaggle.com/datasets/anshtanwar/metro-interstate-traffic-volume/data?select=Metro_Interstate_Traffic_Volume.csv
+        
         Lisensi : Attribution 4.0 International (CC BY 4.0)
 
 3 Temuan Utama :
